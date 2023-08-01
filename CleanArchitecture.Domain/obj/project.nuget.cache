@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9xS1TmscUF86CFUDX4YJ02bYuebMo9wY61TCp5shHfcVH6NHpwTdTDdfAMWn/K189wXbuoiSJdBr+Zd8JHNjXw==",
+  "dgSpecHash": "jKSpMENSH2B39Qx0M5Js6akT7MjL29T8zCHN9wB8z8V+O+H90RXr0FRl0bQu3Uvo3m7BYsuRFFavSW5WoGf5+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tinnova1\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+  "projectFilePath": "C:\\Users\\jazmi\\Source\\Repos\\csharp_DDD\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
