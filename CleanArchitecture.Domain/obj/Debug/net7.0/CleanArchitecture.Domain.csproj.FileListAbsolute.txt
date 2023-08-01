@@ -10,3 +10,15 @@ C:\Users\Tinnova1\source\repos\CleanArchitecture\CleanArchitecture.Domain\obj\De
 C:\Users\Tinnova1\source\repos\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\refint\CleanArchitecture.Domain.dll
 C:\Users\Tinnova1\source\repos\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.pdb
 C:\Users\Tinnova1\source\repos\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\ref\CleanArchitecture.Domain.dll
+C:\Users\Tinnova1\source\repos\csharp_DDD\CleanArchitecture.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.deps.json
+C:\Users\Tinnova1\source\repos\csharp_DDD\CleanArchitecture.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\Users\Tinnova1\source\repos\csharp_DDD\CleanArchitecture.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\Users\Tinnova1\source\repos\csharp_DDD\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.csproj.AssemblyReference.cache
+C:\Users\Tinnova1\source\repos\csharp_DDD\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tinnova1\source\repos\csharp_DDD\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Tinnova1\source\repos\csharp_DDD\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Tinnova1\source\repos\csharp_DDD\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tinnova1\source\repos\csharp_DDD\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\Users\Tinnova1\source\repos\csharp_DDD\CleanArchitecture.Domain\obj\Debug\net7.0\refint\CleanArchitecture.Domain.dll
+C:\Users\Tinnova1\source\repos\csharp_DDD\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\Users\Tinnova1\source\repos\csharp_DDD\CleanArchitecture.Domain\obj\Debug\net7.0\ref\CleanArchitecture.Domain.dll
