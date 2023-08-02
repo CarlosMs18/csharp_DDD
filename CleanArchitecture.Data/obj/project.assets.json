@@ -3706,26 +3706,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tinnova1\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\jazmi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tinnova1\\source\\repos\\csharp_DDD\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\jazmi\\source\\repos\\csharp_DDD\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj",
       "projectName": "CleanArchitecture.Infrastructure",
-      "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\csharp_DDD\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Tinnova1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tinnova1\\source\\repos\\csharp_DDD\\CleanArchitecture.Data\\obj\\",
+      "projectPath": "C:\\Users\\jazmi\\source\\repos\\csharp_DDD\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jazmi\\source\\repos\\csharp_DDD\\CleanArchitecture.Data\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Tinnova1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3733,15 +3726,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Tinnova1\\source\\repos\\csharp_DDD\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
-              "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\csharp_DDD\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+            "C:\\Users\\jazmi\\source\\repos\\csharp_DDD\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+              "projectPath": "C:\\Users\\jazmi\\source\\repos\\csharp_DDD\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
             }
           }
         }
@@ -3783,7 +3775,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
