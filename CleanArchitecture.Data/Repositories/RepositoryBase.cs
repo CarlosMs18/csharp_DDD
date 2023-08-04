@@ -78,6 +78,7 @@ namespace CleanArchitecture.Infrastructure.Repositories
         {
             _context.Entry(entity).State = EntityState.Modified;
             await _context.SaveChangesAsync();
+            return entity;
         }
 
         public async Task DeleteAsync(T entity)
